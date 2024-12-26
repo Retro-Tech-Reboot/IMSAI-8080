@@ -1,5 +1,5 @@
-# Retro-Tech-Reboot
-This repository supports Retro-Tech-Reboot projects including the IMSAI 8080 Reproduction Project
+# IMSAI 8080 Reproduction Project
+This repository supports the IMSAI 8080 Reproduction Project
 
 The IMSAI 8080 Reproduction Project (I8PP) is a project to recreate the original kits that became the IMSAI 8080 computer from the mid 1970s. This is an 8080A based 8-bit computer implemented in the S-100 architecture. The IMSAI 8080 is considered the first "clone" computer as it copied from and approved on the ALTAIR 8800.
 We are repoducing the original PCBs and making them available as kits.
